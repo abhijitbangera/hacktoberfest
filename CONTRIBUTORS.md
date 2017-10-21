@@ -1102,3 +1102,8 @@ Noida
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
 - GitHub: [Acquila Santos Rocha](https://github.com/DJAcquila)
+
+#### Name: [Abhijit Bangera](https://github.com/abhijitbangera)
+- Place: Bangalore, Karnataka, India
+- Bio: Python Programmer at HCL Technologies Ltd.
+- GitHub: [Abhijit Bangera](https://github.com/abhijitbangera)
